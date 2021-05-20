@@ -6,7 +6,7 @@ In critically ill infants, the position of a peripherally inserted central cathe
 
 ## Objectives  
 
-This research seeks to use natural language processing (NLP) and supervised machine learning (ML) techniques to predict PICC tip position based primarily on text analysis of radiograph reports from infants with an upper extremity PICC. 
+This research seeks to benchmark the use of multiple natural language processing (NLP) and supervised machine learning (ML) techniques to predict PICC tip position based primarily on text analysis of radiograph reports from infants with an upper extremity PICC.
 
 ## Methods  
 
